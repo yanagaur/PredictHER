@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677319422045",
+    "project_id": "predict-4cfac",
+    "storage_bucket": "predict-4cfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677319422045:android:93b9db1d63b50f17f71db4",
+        "android_client_info": {
+          "package_name": "com.example.predicther_03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCidQqQOSiXgQr7zjpMVshuBrmC_uv0cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
